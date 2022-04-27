@@ -1,4 +1,4 @@
-let btn = document.body.querySelector('.change')
+let btn = document.querySelector('.change')
 
 let bgrcChanger = ()=>{
     let colors = ['red', 'yellow', 'blue', 'green', 'aqua']
